@@ -8,8 +8,8 @@
 * [Setting up local development](quick-start/setting-up-local-development.md)
 * [Env variables](quick-start/env-variables.md)
 * [Directory structure](quick-start/directory-structure.md)
-* [Scripts](quick-start/scripts.md)
 * [Path Mapping](quick-start/path-mapping.md)
+* [Scripts](quick-start/scripts.md)
 
 ## Testing
 
