@@ -1,5 +1,8 @@
 ---
-description: AlgoWorld Swapper documentation
+description: AlgoWorld Swapper documentation (work in progress)
+cover: >-
+  https://camo.githubusercontent.com/b4da1ab023f8674f4b008185daa2770a4914b1619e7cb8c7edaa38cf95a40894/68747470733a2f2f696d6775722e636f6d2f537634413663712e706e67
+coverY: 0
 ---
 
 # Swapper
