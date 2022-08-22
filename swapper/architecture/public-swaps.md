@@ -10,7 +10,7 @@ The listings are provided in first come first served manner analogous to how a l
 
 The sequence diagram below provides a detailed overview of various steps performed when obtain public swaps from current on-chain data.
 
-![Public Swaps sequence diagram](../../.gitbook/assets/public\_swaps\_sequence\_diagram.png)
+![](../../.gitbook/assets/public\_swaps\_diagram\_2.png)
 
 > Known limitations:&#x20;
 >
