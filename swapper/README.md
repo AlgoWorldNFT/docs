@@ -11,6 +11,10 @@ The following is the official documentation for `AlgoWorld Swapper`. Free and op
 
 > _**⚠️ NOTE:**_ [_**algoworld-contracts**_](https://github.com/AlgoWorldNFT/algoworld-contracts) _**used by the swapper are not formally audited by accredited third parties. However, contracts are a basis for certain functionality on the AlgoWorldExplorer.io platform and were created in collaboration with Solution Architect from Algorand (credits @cusma).**_
 
+{% embed url="https://www.youtube.com/watch?v=gilh4tKK7K4" %}
+_**AlgoWorld Swapper Platform Overview**_
+{% endembed %}
+
 ## 🚀 Features
 
 AlgoWorld Swapper currently offers usage of several smart signatures used for single and multi ASA transfers.
