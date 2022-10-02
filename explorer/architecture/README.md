@@ -11,3 +11,5 @@ AlgoWorld Explorer relies on the following technologies:
 * Vercel - hosting provider
 
 The high level diagram below demonstrates the explorer interaction with various third party components, clients and technologies:
+
+<figure><img src="../../.gitbook/assets/AlgoWorld Documentation.png" alt=""><figcaption></figcaption></figure>
